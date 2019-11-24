@@ -35,9 +35,9 @@ This Service does not use these “cookies” explicitly. However, the app may u
 <p>
 I may employ third-party companies and individuals due to the following reasons:
   
-•	To facilitate our Service;
-•	To provide the Service on our behalf;
-•	To perform Service-related services; or
+•	To facilitate our Service;<br/>
+•	To provide the Service on our behalf;<br/>
+•	To perform Service-related services; or<br/>
 •	To assist us in analyzing how our Service is used.
 
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
@@ -67,7 +67,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 </p> 
 
-<p><b>Children’s Privacy</b></p>
+<p><b>Contact Us</b></p>
 
 <p>
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at nitish.patel.08@gmail.com.  
